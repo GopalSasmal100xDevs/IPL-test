@@ -8,4 +8,7 @@ export const matchesFilePath = path.join(__dirname, "../data/matches.csv");
 export const deliveriesJSONPath = path.join(__dirname, "../data/deliveries");
 export const matchesJSONPath = path.join(__dirname, "../data/matches");
 
-export const matchesPerYearPath = path.join(__dirname, "../public/matches");
+export const matchesPerYearPath = path.join(
+  __dirname,
+  "../public/output/matchesPerYear"
+);
