@@ -1,0 +1,52 @@
+{
+  "RN ten Doeschate": {
+    "balls": 7,
+    "concededRun": 4,
+    "economy": "3.43"
+  },
+  "J Yadav": {
+    "balls": 42,
+    "concededRun": 29,
+    "economy": "4.14"
+  },
+  "V Kohli": {
+    "balls": 11,
+    "concededRun": 10,
+    "economy": "5.45"
+  },
+  "R Ashwin": {
+    "balls": 240,
+    "concededRun": 229,
+    "economy": "5.72"
+  },
+  "S Nadeem": {
+    "balls": 44,
+    "concededRun": 43,
+    "economy": "5.86"
+  },
+  "Z Khan": {
+    "balls": 155,
+    "concededRun": 159,
+    "economy": "6.15"
+  },
+  "Parvez Rasool": {
+    "balls": 30,
+    "concededRun": 31,
+    "economy": "6.20"
+  },
+  "MC Henriques": {
+    "balls": 157,
+    "concededRun": 164,
+    "economy": "6.27"
+  },
+  "MA Starc": {
+    "balls": 272,
+    "concededRun": 306,
+    "economy": "6.75"
+  },
+  "M de Lange": {
+    "balls": 26,
+    "concededRun": 30,
+    "economy": "6.92"
+  }
+}
