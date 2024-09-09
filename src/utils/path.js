@@ -27,3 +27,6 @@ export const top10EconomicalBowlersIn2015Path = generateOutputPath(
 export const teamsWonTossWonMatchPath = generateOutputPath(
   "teamsWonTossWonMatch"
 );
+export const playerOfTheMatchEachSeasonPath = generateOutputPath(
+  "playerOfTheMatchEachSeason"
+);
