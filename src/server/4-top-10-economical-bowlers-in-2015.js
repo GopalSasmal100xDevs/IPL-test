@@ -55,4 +55,4 @@ export function top10EconomicalBowlersIn2015(deliveries, matches) {
 }
 
 const data = top10EconomicalBowlersIn2015(deliveries, matches);
-console.log(data);
+saveDataInFile(data, top10EconomicalBowlersIn2015Path);
