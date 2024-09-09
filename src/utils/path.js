@@ -21,3 +21,6 @@ export const matchesWonParTeamParYearPath = generateOutputPath(
 export const extraRunsConcededPerTeamIn2016Path = generateOutputPath(
   "extraRunsConcededPerTeamIn2016"
 );
+export const top10EconomicalBowlersIn2015Path = generateOutputPath(
+  "top10EconomicalBowlersIn2015"
+);
