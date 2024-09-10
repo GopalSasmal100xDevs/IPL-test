@@ -33,3 +33,6 @@ export const playerOfTheMatchEachSeasonPath = generateOutputPath(
 export const batsmanStrikeRateEachSeasonPath = generateOutputPath(
   "batsmanStrikeRateEachSeason"
 );
+export const bestEconomyInSuperOversPath = generateOutputPath(
+  "bestEconomyInSuperOvers"
+);
