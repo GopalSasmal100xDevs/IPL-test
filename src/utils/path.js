@@ -30,3 +30,6 @@ export const teamsWonTossWonMatchPath = generateOutputPath(
 export const playerOfTheMatchEachSeasonPath = generateOutputPath(
   "playerOfTheMatchEachSeason"
 );
+export const batsmanStrikeRateEachSeasonPath = generateOutputPath(
+  "batsmanStrikeRateEachSeason"
+);
