@@ -36,3 +36,6 @@ export const batsmanStrikeRateEachSeasonPath = generateOutputPath(
 export const bestEconomyInSuperOversPath = generateOutputPath(
   "bestEconomyInSuperOvers"
 );
+export const highestNumberDismissedByAnotherPlayerPath = generateOutputPath(
+  "highestNumberDismissedByAnotherPlayer"
+);
