@@ -39,3 +39,7 @@ export const bestEconomyInSuperOversPath = generateOutputPath(
 export const highestNumberDismissedByAnotherPlayerPath = generateOutputPath(
   "highestNumberDismissedByAnotherPlayer"
 );
+
+export const teamsTotalSixesEachSeasonPath = generateOutputPath(
+  "teamsTotalSixesEachSeason"
+);
