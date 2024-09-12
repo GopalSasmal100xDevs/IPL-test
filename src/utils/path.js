@@ -43,3 +43,6 @@ export const highestNumberDismissedByAnotherPlayerPath = generateOutputPath(
 export const teamsTotalSixesEachSeasonPath = generateOutputPath(
   "teamsTotalSixesEachSeason"
 );
+export const mostRunGetterBatsmanEachSeasonPath = generateOutputPath(
+  "mostRunGetterBatsmanEachSeason"
+);
