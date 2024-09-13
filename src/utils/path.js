@@ -52,3 +52,6 @@ export const mostHalfCenturiesBatsmanEachSeasonPath = generateOutputPath(
 export const highestWinningPercentageTeamEachSeasonPath = generateOutputPath(
   "highestWinningPercentageTeamEachSeason"
 );
+export const mostCatchesEachSeasonPath = generateOutputPath(
+  "15-mostCatchesEachSeason"
+);
