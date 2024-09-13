@@ -1,0 +1,42 @@
+{
+  "2008": {
+    "player": "SK Raina",
+    "catches": 10
+  },
+  "2009": {
+    "player": "AB de Villiers",
+    "catches": 13
+  },
+  "2010": {
+    "player": "M Vijay",
+    "catches": 12
+  },
+  "2011": {
+    "player": "KC Sangakkara",
+    "catches": 17
+  },
+  "2012": {
+    "player": "NV Ojha",
+    "catches": 14
+  },
+  "2013": {
+    "player": "MS Dhoni",
+    "catches": 15
+  },
+  "2014": {
+    "player": "DA Miller",
+    "catches": 14
+  },
+  "2015": {
+    "player": "KD Karthik",
+    "catches": 14
+  },
+  "2016": {
+    "player": "AB de Villiers",
+    "catches": 19
+  },
+  "2017": {
+    "player": "KA Pollard",
+    "catches": 15
+  }
+}
