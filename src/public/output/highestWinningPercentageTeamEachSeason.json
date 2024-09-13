@@ -1,0 +1,42 @@
+{
+  "2008": {
+    "team": "Rajasthan Royals",
+    "winningPercentage": "81.25"
+  },
+  "2009": {
+    "team": "Delhi Daredevils",
+    "winningPercentage": "66.67"
+  },
+  "2010": {
+    "team": "Mumbai Indians",
+    "winningPercentage": "68.75"
+  },
+  "2011": {
+    "team": "Chennai Super Kings",
+    "winningPercentage": "68.75"
+  },
+  "2012": {
+    "team": "Kolkata Knight Riders",
+    "winningPercentage": "70.59"
+  },
+  "2013": {
+    "team": "Mumbai Indians",
+    "winningPercentage": "68.42"
+  },
+  "2014": {
+    "team": "Kings XI Punjab",
+    "winningPercentage": "70.59"
+  },
+  "2015": {
+    "team": "Mumbai Indians",
+    "winningPercentage": "62.50"
+  },
+  "2016": {
+    "team": "Sunrisers Hyderabad",
+    "winningPercentage": "64.71"
+  },
+  "2017": {
+    "team": "Mumbai Indians",
+    "winningPercentage": "64.71"
+  }
+}
