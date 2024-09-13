@@ -1,0 +1,42 @@
+{
+  "2008": {
+    "batsman": "SE Marsh",
+    "halfCenturies": 6
+  },
+  "2009": {
+    "batsman": "JP Duminy",
+    "halfCenturies": 5
+  },
+  "2010": {
+    "batsman": "JH Kallis",
+    "halfCenturies": 6
+  },
+  "2011": {
+    "batsman": "S Badrinath",
+    "halfCenturies": 5
+  },
+  "2012": {
+    "batsman": "CH Gayle",
+    "halfCenturies": 8
+  },
+  "2013": {
+    "batsman": "V Kohli",
+    "halfCenturies": 7
+  },
+  "2014": {
+    "batsman": "DA Warner",
+    "halfCenturies": 6
+  },
+  "2015": {
+    "batsman": "DA Warner",
+    "halfCenturies": 7
+  },
+  "2016": {
+    "batsman": "V Kohli",
+    "halfCenturies": 11
+  },
+  "2017": {
+    "batsman": "DA Warner",
+    "halfCenturies": 5
+  }
+}

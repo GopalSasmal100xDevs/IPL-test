@@ -46,3 +46,6 @@ export const teamsTotalSixesEachSeasonPath = generateOutputPath(
 export const mostRunGetterBatsmanEachSeasonPath = generateOutputPath(
   "mostRunGetterBatsmanEachSeason"
 );
+export const mostHalfCenturiesBatsmanEachSeasonPath = generateOutputPath(
+  "mostHalfCenturiesBatsmanEachSeason"
+);
