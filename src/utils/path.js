@@ -55,3 +55,6 @@ export const highestWinningPercentageTeamEachSeasonPath = generateOutputPath(
 export const mostCatchesEachSeasonPath = generateOutputPath(
   "15-mostCatchesEachSeason"
 );
+export const mostWicketTakerInDeathOverPath = generateOutputPath(
+  "16-mostWicketTakerInDeathOver"
+);
