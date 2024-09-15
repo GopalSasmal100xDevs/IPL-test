@@ -1,0 +1,42 @@
+{
+  "2008": {
+    "team": "Rajasthan Royals",
+    "runRate": 0.14
+  },
+  "2009": {
+    "team": "Chennai Super Kings",
+    "runRate": 0.09
+  },
+  "2010": {
+    "team": "Mumbai Indians",
+    "runRate": 0.13
+  },
+  "2011": {
+    "team": "Chennai Super Kings",
+    "runRate": 0.08
+  },
+  "2012": {
+    "team": "Kolkata Knight Riders",
+    "runRate": 0.09
+  },
+  "2013": {
+    "team": "Chennai Super Kings",
+    "runRate": 0.09
+  },
+  "2014": {
+    "team": "Kings XI Punjab",
+    "runRate": 0.11
+  },
+  "2015": {
+    "team": "Royal Challengers Bangalore",
+    "runRate": 0.12
+  },
+  "2016": {
+    "team": "Royal Challengers Bangalore",
+    "runRate": 0.13
+  },
+  "2017": {
+    "team": "Mumbai Indians",
+    "runRate": 0.1
+  }
+}
