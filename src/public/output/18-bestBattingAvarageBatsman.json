@@ -1,0 +1,62 @@
+{
+  "2008": {
+    "batsman": "LA Pomersbach",
+    "battingAvarage": "152.00",
+    "totalRuns": 152,
+    "dismissalCount": 1
+  },
+  "2009": {
+    "batsman": "MK Pandey",
+    "battingAvarage": "84.00",
+    "totalRuns": 168,
+    "dismissalCount": 2
+  },
+  "2010": {
+    "batsman": "KP Pietersen",
+    "battingAvarage": "78.67",
+    "totalRuns": 236,
+    "dismissalCount": 3
+  },
+  "2011": {
+    "batsman": "WP Saha",
+    "battingAvarage": "68.00",
+    "totalRuns": 68,
+    "dismissalCount": 1
+  },
+  "2012": {
+    "batsman": "DB Das",
+    "battingAvarage": "126.00",
+    "totalRuns": 126,
+    "dismissalCount": 1
+  },
+  "2013": {
+    "batsman": "R Vinay Kumar",
+    "battingAvarage": "70.00",
+    "totalRuns": 70,
+    "dismissalCount": 1
+  },
+  "2014": {
+    "batsman": "MS Dhoni",
+    "battingAvarage": "74.20",
+    "totalRuns": 371,
+    "dismissalCount": 5
+  },
+  "2015": {
+    "batsman": "JA Morkel",
+    "battingAvarage": "86.00",
+    "totalRuns": 86,
+    "dismissalCount": 1
+  },
+  "2016": {
+    "batsman": "V Kohli",
+    "battingAvarage": "81.08",
+    "totalRuns": 973,
+    "dismissalCount": 12
+  },
+  "2017": {
+    "batsman": "HM Amla",
+    "battingAvarage": "60.00",
+    "totalRuns": 420,
+    "dismissalCount": 7
+  }
+}

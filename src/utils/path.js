@@ -61,3 +61,6 @@ export const mostWicketTakerInDeathOverPath = generateOutputPath(
 export const toatlDotBallsEachSeasonPath = generateOutputPath(
   "17-toatlDotBallsEachSeason"
 );
+export const bestBattingAverageBatsmanPath = generateOutputPath(
+  "18-bestBattingAverageBatsman"
+);
