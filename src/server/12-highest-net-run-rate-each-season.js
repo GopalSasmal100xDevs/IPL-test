@@ -92,6 +92,21 @@ export function highestNetRunRateEachSeason(deliveries, matches) {
     }
   }
 
+  // calculate highest net run rate
+
+  for (let season in matchesStat) {
+    let maxRunRateTeam = "";
+    let maxRunRate = -1000;
+    for (let team in matchesStat[season]) {
+      const { netRunRate } = matchesStat[season][team];
+      if (maxRunRate < parseFloat(netRunRate)) {
+        maxRunRate = parseFloat(netRunRate);
+        maxRunRateTeam = team;
+      }
+    }
+    matchesStat[season] = { team: maxRunRateTeam, runRate: maxRunRate };
+  }
+
   return matchesStat;
 }
 
