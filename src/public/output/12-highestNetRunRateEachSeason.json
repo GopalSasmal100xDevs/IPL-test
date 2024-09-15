@@ -1,0 +1,610 @@
+{
+  "2008": {
+    "Kolkata Knight Riders": {
+      "ballFaced": 1495,
+      "runScored": 1942,
+      "bowled": 1280,
+      "runConceded": 1718,
+      "netRunRate": "-0.04"
+    },
+    "Royal Challengers Bangalore": {
+      "bowled": 1569,
+      "runConceded": 2205,
+      "ballFaced": 1601,
+      "runScored": 1983,
+      "netRunRate": "-0.17"
+    },
+    "Chennai Super Kings": {
+      "ballFaced": 1789,
+      "runScored": 2520,
+      "bowled": 1829,
+      "runConceded": 2568,
+      "netRunRate": "0.00"
+    },
+    "Kings XI Punjab": {
+      "bowled": 1698,
+      "runConceded": 2417,
+      "ballFaced": 1678,
+      "runScored": 2464,
+      "netRunRate": "0.04"
+    },
+    "Rajasthan Royals": {
+      "ballFaced": 1784,
+      "runScored": 2601,
+      "bowled": 1827,
+      "runConceded": 2403,
+      "netRunRate": "0.14"
+    },
+    "Delhi Daredevils": {
+      "bowled": 1599,
+      "runConceded": 2223,
+      "ballFaced": 1495,
+      "runScored": 2118,
+      "netRunRate": "0.03"
+    },
+    "Mumbai Indians": {
+      "ballFaced": 1495,
+      "runScored": 2080,
+      "bowled": 1561,
+      "runConceded": 2096,
+      "netRunRate": "0.05"
+    },
+    "Deccan Chargers": {
+      "ballFaced": 1613,
+      "runScored": 2229,
+      "bowled": 1587,
+      "runConceded": 2307,
+      "netRunRate": "-0.07"
+    }
+  },
+  "2009": {
+    "Mumbai Indians": {
+      "ballFaced": 1537,
+      "runScored": 1897,
+      "bowled": 1494,
+      "runConceded": 1802,
+      "netRunRate": "0.03"
+    },
+    "Chennai Super Kings": {
+      "bowled": 1593,
+      "runConceded": 2004,
+      "ballFaced": 1651,
+      "runScored": 2231,
+      "netRunRate": "0.09"
+    },
+    "Royal Challengers Bangalore": {
+      "ballFaced": 1861,
+      "runScored": 2280,
+      "bowled": 1849,
+      "runConceded": 2316,
+      "netRunRate": "-0.03"
+    },
+    "Rajasthan Royals": {
+      "bowled": 1552,
+      "runConceded": 1825,
+      "ballFaced": 1489,
+      "runScored": 1706,
+      "netRunRate": "-0.03"
+    },
+    "Kings XI Punjab": {
+      "ballFaced": 1608,
+      "runScored": 1928,
+      "bowled": 1491,
+      "runConceded": 1886,
+      "netRunRate": "-0.07"
+    },
+    "Delhi Daredevils": {
+      "bowled": 1717,
+      "runConceded": 2158,
+      "ballFaced": 1652,
+      "runScored": 2131,
+      "netRunRate": "0.03"
+    },
+    "Kolkata Knight Riders": {
+      "ballFaced": 1469,
+      "runScored": 1772,
+      "bowled": 1495,
+      "runConceded": 1975,
+      "netRunRate": "-0.11"
+    },
+    "Deccan Chargers": {
+      "bowled": 1904,
+      "runConceded": 2387,
+      "ballFaced": 1828,
+      "runScored": 2408,
+      "netRunRate": "0.06"
+    }
+  },
+  "2010": {
+    "Kolkata Knight Riders": {
+      "ballFaced": 1634,
+      "runScored": 2144,
+      "bowled": 1605,
+      "runConceded": 2192,
+      "netRunRate": "-0.05"
+    },
+    "Deccan Chargers": {
+      "bowled": 1854,
+      "runConceded": 2482,
+      "ballFaced": 1868,
+      "runScored": 2374,
+      "netRunRate": "-0.07"
+    },
+    "Mumbai Indians": {
+      "ballFaced": 1902,
+      "runScored": 2738,
+      "bowled": 1851,
+      "runConceded": 2417,
+      "netRunRate": "0.13"
+    },
+    "Rajasthan Royals": {
+      "bowled": 1552,
+      "runConceded": 2224,
+      "ballFaced": 1608,
+      "runScored": 2179,
+      "netRunRate": "-0.08"
+    },
+    "Kings XI Punjab": {
+      "ballFaced": 1657,
+      "runScored": 2288,
+      "bowled": 1630,
+      "runConceded": 2374,
+      "netRunRate": "-0.08"
+    },
+    "Delhi Daredevils": {
+      "bowled": 1654,
+      "runConceded": 2166,
+      "ballFaced": 1631,
+      "runScored": 2155,
+      "netRunRate": "0.01"
+    },
+    "Royal Challengers Bangalore": {
+      "ballFaced": 1765,
+      "runScored": 2401,
+      "bowled": 1895,
+      "runConceded": 2511,
+      "netRunRate": "0.04"
+    },
+    "Chennai Super Kings": {
+      "bowled": 1897,
+      "runConceded": 2517,
+      "ballFaced": 1873,
+      "runScored": 2604,
+      "netRunRate": "0.06"
+    }
+  },
+  "2011": {
+    "Chennai Super Kings": {
+      "ballFaced": 1889,
+      "runScored": 2560,
+      "bowled": 1810,
+      "runConceded": 2300,
+      "netRunRate": "0.08"
+    },
+    "Kolkata Knight Riders": {
+      "bowled": 1711,
+      "runConceded": 2072,
+      "ballFaced": 1616,
+      "runScored": 2023,
+      "netRunRate": "0.04"
+    },
+    "Deccan Chargers": {
+      "ballFaced": 1676,
+      "runScored": 2140,
+      "bowled": 1616,
+      "runConceded": 2037,
+      "netRunRate": "0.02"
+    },
+    "Rajasthan Royals": {
+      "bowled": 1412,
+      "runConceded": 1801,
+      "ballFaced": 1414,
+      "runScored": 1687,
+      "netRunRate": "-0.08"
+    },
+    "Kochi Tuskers Kerala": {
+      "ballFaced": 1510,
+      "runScored": 1901,
+      "bowled": 1555,
+      "runConceded": 1986,
+      "netRunRate": "-0.02"
+    },
+    "Royal Challengers Bangalore": {
+      "bowled": 1867,
+      "runConceded": 2512,
+      "ballFaced": 1763,
+      "runScored": 2469,
+      "netRunRate": "0.05"
+    },
+    "Delhi Daredevils": {
+      "ballFaced": 1596,
+      "runScored": 2087,
+      "bowled": 1492,
+      "runConceded": 2076,
+      "netRunRate": "-0.08"
+    },
+    "Mumbai Indians": {
+      "bowled": 1831,
+      "runConceded": 2283,
+      "ballFaced": 1845,
+      "runScored": 2288,
+      "netRunRate": "-0.01"
+    },
+    "Kings XI Punjab": {
+      "ballFaced": 1647,
+      "runScored": 2224,
+      "bowled": 1545,
+      "runConceded": 2173,
+      "netRunRate": "-0.06"
+    },
+    "Pune Warriors": {
+      "bowled": 1586,
+      "runConceded": 1914,
+      "ballFaced": 1469,
+      "runScored": 1775,
+      "netRunRate": "0.00"
+    }
+  },
+  "2012": {
+    "Chennai Super Kings": {
+      "ballFaced": 2120,
+      "runScored": 2831,
+      "bowled": 2036,
+      "runConceded": 2621,
+      "netRunRate": "0.05"
+    },
+    "Mumbai Indians": {
+      "bowled": 1983,
+      "runConceded": 2530,
+      "ballFaced": 1986,
+      "runScored": 2462,
+      "netRunRate": "-0.04"
+    },
+    "Kolkata Knight Riders": {
+      "ballFaced": 1949,
+      "runScored": 2504,
+      "bowled": 1982,
+      "runConceded": 2366,
+      "netRunRate": "0.09"
+    },
+    "Delhi Daredevils": {
+      "bowled": 2072,
+      "runConceded": 2745,
+      "ballFaced": 1924,
+      "runScored": 2645,
+      "netRunRate": "0.05"
+    },
+    "Pune Warriors": {
+      "ballFaced": 1910,
+      "runScored": 2321,
+      "bowled": 1860,
+      "runConceded": 2424,
+      "netRunRate": "-0.09"
+    },
+    "Rajasthan Royals": {
+      "ballFaced": 1894,
+      "runScored": 2516,
+      "bowled": 1856,
+      "runConceded": 2402,
+      "netRunRate": "0.03"
+    },
+    "Kings XI Punjab": {
+      "bowled": 1873,
+      "runConceded": 2455,
+      "ballFaced": 1881,
+      "runScored": 2390,
+      "netRunRate": "-0.04"
+    },
+    "Royal Challengers Bangalore": {
+      "ballFaced": 1777,
+      "runScored": 2472,
+      "bowled": 1797,
+      "runConceded": 2505,
+      "netRunRate": "-0.00"
+    },
+    "Deccan Chargers": {
+      "bowled": 1749,
+      "runConceded": 2405,
+      "ballFaced": 1767,
+      "runScored": 2312,
+      "netRunRate": "-0.07"
+    }
+  },
+  "2013": {
+    "Delhi Daredevils": {
+      "ballFaced": 1875,
+      "runScored": 2245,
+      "bowled": 1846,
+      "runConceded": 2451,
+      "netRunRate": "-0.13"
+    },
+    "Kolkata Knight Riders": {
+      "bowled": 1876,
+      "runConceded": 2316,
+      "ballFaced": 1866,
+      "runScored": 2290,
+      "netRunRate": "-0.01"
+    },
+    "Royal Challengers Bangalore": {
+      "ballFaced": 1818,
+      "runScored": 2601,
+      "bowled": 1829,
+      "runConceded": 2482,
+      "netRunRate": "0.07"
+    },
+    "Mumbai Indians": {
+      "bowled": 2212,
+      "runConceded": 2832,
+      "ballFaced": 2245,
+      "runScored": 2975,
+      "netRunRate": "0.04"
+    },
+    "Sunrisers Hyderabad": {
+      "ballFaced": 1979,
+      "runScored": 2318,
+      "bowled": 1992,
+      "runConceded": 2356,
+      "netRunRate": "-0.01"
+    },
+    "Pune Warriors": {
+      "bowled": 1865,
+      "runConceded": 2519,
+      "ballFaced": 1896,
+      "runScored": 2262,
+      "netRunRate": "-0.16"
+    },
+    "Rajasthan Royals": {
+      "ballFaced": 2099,
+      "runScored": 2705,
+      "bowled": 2098,
+      "runConceded": 2627,
+      "netRunRate": "0.04"
+    },
+    "Chennai Super Kings": {
+      "bowled": 2047,
+      "runConceded": 2602,
+      "ballFaced": 2035,
+      "runScored": 2778,
+      "netRunRate": "0.09"
+    },
+    "Kings XI Punjab": {
+      "bowled": 1872,
+      "runConceded": 2417,
+      "ballFaced": 1824,
+      "runScored": 2428,
+      "netRunRate": "0.04"
+    }
+  },
+  "2014": {
+    "Kolkata Knight Riders": {
+      "ballFaced": 1817,
+      "runScored": 2499,
+      "bowled": 1905,
+      "runConceded": 2455,
+      "netRunRate": "0.09"
+    },
+    "Mumbai Indians": {
+      "bowled": 1753,
+      "runConceded": 2346,
+      "ballFaced": 1746,
+      "runScored": 2353,
+      "netRunRate": "0.01"
+    },
+    "Delhi Daredevils": {
+      "ballFaced": 1633,
+      "runScored": 2081,
+      "bowled": 1503,
+      "runConceded": 2184,
+      "netRunRate": "-0.18"
+    },
+    "Royal Challengers Bangalore": {
+      "bowled": 1608,
+      "runConceded": 2163,
+      "ballFaced": 1613,
+      "runScored": 2093,
+      "netRunRate": "-0.05"
+    },
+    "Chennai Super Kings": {
+      "ballFaced": 1864,
+      "runScored": 2650,
+      "bowled": 1853,
+      "runConceded": 2577,
+      "netRunRate": "0.03"
+    },
+    "Kings XI Punjab": {
+      "bowled": 1989,
+      "runConceded": 2794,
+      "ballFaced": 1971,
+      "runScored": 2987,
+      "netRunRate": "0.11"
+    },
+    "Sunrisers Hyderabad": {
+      "ballFaced": 1578,
+      "runScored": 2102,
+      "bowled": 1620,
+      "runConceded": 2237,
+      "netRunRate": "-0.05"
+    },
+    "Rajasthan Royals": {
+      "bowled": 1614,
+      "runConceded": 2175,
+      "ballFaced": 1623,
+      "runScored": 2166,
+      "netRunRate": "-0.01"
+    }
+  },
+  "2015": {
+    "Mumbai Indians": {
+      "ballFaced": 1876,
+      "runScored": 2734,
+      "bowled": 1880,
+      "runConceded": 2694,
+      "netRunRate": "0.02"
+    },
+    "Kolkata Knight Riders": {
+      "bowled": 1492,
+      "runConceded": 2081,
+      "ballFaced": 1417,
+      "runScored": 2044,
+      "netRunRate": "0.05"
+    },
+    "Chennai Super Kings": {
+      "ballFaced": 1994,
+      "runScored": 2725,
+      "bowled": 2003,
+      "runConceded": 2601,
+      "netRunRate": "0.07"
+    },
+    "Delhi Daredevils": {
+      "bowled": 1496,
+      "runConceded": 1978,
+      "ballFaced": 1612,
+      "runScored": 2168,
+      "netRunRate": "0.02"
+    },
+    "Rajasthan Royals": {
+      "ballFaced": 1542,
+      "runScored": 2143,
+      "bowled": 1663,
+      "runConceded": 2397,
+      "netRunRate": "-0.05"
+    },
+    "Kings XI Punjab": {
+      "bowled": 1552,
+      "runConceded": 2292,
+      "ballFaced": 1588,
+      "runScored": 2018,
+      "netRunRate": "-0.21"
+    },
+    "Sunrisers Hyderabad": {
+      "bowled": 1509,
+      "runConceded": 2126,
+      "ballFaced": 1610,
+      "runScored": 2210,
+      "netRunRate": "-0.04"
+    },
+    "Royal Challengers Bangalore": {
+      "bowled": 1555,
+      "runConceded": 2184,
+      "ballFaced": 1511,
+      "runScored": 2311,
+      "netRunRate": "0.12"
+    }
+  },
+  "2016": {
+    "Mumbai Indians": {
+      "ballFaced": 1613,
+      "runScored": 2194,
+      "bowled": 1597,
+      "runConceded": 2190,
+      "netRunRate": "-0.01"
+    },
+    "Rising Pune Supergiants": {
+      "bowled": 1555,
+      "runConceded": 2113,
+      "ballFaced": 1521,
+      "runScored": 2063,
+      "netRunRate": "-0.00"
+    },
+    "Delhi Daredevils": {
+      "ballFaced": 1590,
+      "runScored": 2104,
+      "bowled": 1566,
+      "runConceded": 2107,
+      "netRunRate": "-0.02"
+    },
+    "Kolkata Knight Riders": {
+      "bowled": 1696,
+      "runConceded": 2321,
+      "ballFaced": 1631,
+      "runScored": 2263,
+      "netRunRate": "0.02"
+    },
+    "Kings XI Punjab": {
+      "ballFaced": 1617,
+      "runScored": 2134,
+      "bowled": 1565,
+      "runConceded": 2233,
+      "netRunRate": "-0.11"
+    },
+    "Gujarat Lions": {
+      "bowled": 1852,
+      "runConceded": 2607,
+      "ballFaced": 1819,
+      "runScored": 2450,
+      "netRunRate": "-0.06"
+    },
+    "Royal Challengers Bangalore": {
+      "ballFaced": 1858,
+      "runScored": 2981,
+      "bowled": 1843,
+      "runConceded": 2711,
+      "netRunRate": "0.13"
+    },
+    "Sunrisers Hyderabad": {
+      "bowled": 1944,
+      "runConceded": 2580,
+      "ballFaced": 1969,
+      "runScored": 2673,
+      "netRunRate": "0.03"
+    }
+  },
+  "2017": {
+    "Sunrisers Hyderabad": {
+      "ballFaced": 1632,
+      "runScored": 2349,
+      "bowled": 1571,
+      "runConceded": 2166,
+      "netRunRate": "0.06"
+    },
+    "Royal Challengers Bangalore": {
+      "bowled": 1450,
+      "runConceded": 2033,
+      "ballFaced": 1490,
+      "runScored": 1845,
+      "netRunRate": "-0.16"
+    },
+    "Mumbai Indians": {
+      "ballFaced": 1965,
+      "runScored": 2800,
+      "bowled": 1990,
+      "runConceded": 2645,
+      "netRunRate": "0.10"
+    },
+    "Rising Pune Supergiant": {
+      "bowled": 1865,
+      "runConceded": 2436,
+      "ballFaced": 1843,
+      "runScored": 2470,
+      "netRunRate": "0.03"
+    },
+    "Gujarat Lions": {
+      "ballFaced": 1620,
+      "runScored": 2412,
+      "bowled": 1595,
+      "runConceded": 2483,
+      "netRunRate": "-0.07"
+    },
+    "Kolkata Knight Riders": {
+      "bowled": 1810,
+      "runConceded": 2539,
+      "ballFaced": 1707,
+      "runScored": 2484,
+      "netRunRate": "0.05"
+    },
+    "Kings XI Punjab": {
+      "bowled": 1559,
+      "runConceded": 2229,
+      "ballFaced": 1541,
+      "runScored": 2207,
+      "netRunRate": "0.00"
+    },
+    "Delhi Daredevils": {
+      "bowled": 1561,
+      "runConceded": 2255,
+      "ballFaced": 1603,
+      "runScored": 2219,
+      "netRunRate": "-0.06"
+    }
+  }
+}

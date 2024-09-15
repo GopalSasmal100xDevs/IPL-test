@@ -67,3 +67,6 @@ export const bestBattingAverageBatsmanPath = generateOutputPath(
 export const teamPlayedMostSuperOverPath = generateOutputPath(
   "19-teamPlayedMostSuperOver"
 );
+export const highestNetRunRateEachSeasonPath = generateOutputPath(
+  "12-highestNetRunRateEachSeason"
+);
