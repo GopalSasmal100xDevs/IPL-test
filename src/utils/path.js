@@ -64,3 +64,6 @@ export const toatlDotBallsEachSeasonPath = generateOutputPath(
 export const bestBattingAverageBatsmanPath = generateOutputPath(
   "18-bestBattingAverageBatsman"
 );
+export const teamPlayedMostSuperOverPath = generateOutputPath(
+  "19-teamPlayedMostSuperOver"
+);
