@@ -1,0 +1,42 @@
+{
+  "2008": {
+    "team": "Deccan Chargers",
+    "lostCount": 12
+  },
+  "2009": {
+    "team": "Kolkata Knight Riders",
+    "lostCount": 10
+  },
+  "2010": {
+    "team": "Kings XI Punjab",
+    "lostCount": 10
+  },
+  "2011": {
+    "team": "Delhi Daredevils",
+    "lostCount": 10
+  },
+  "2012": {
+    "team": "Pune Warriors",
+    "lostCount": 12
+  },
+  "2013": {
+    "team": "Delhi Daredevils",
+    "lostCount": 13
+  },
+  "2014": {
+    "team": "Delhi Daredevils",
+    "lostCount": 12
+  },
+  "2015": {
+    "team": "Kings XI Punjab",
+    "lostCount": 11
+  },
+  "2016": {
+    "team": "Kings XI Punjab",
+    "lostCount": 10
+  },
+  "2017": {
+    "team": "Royal Challengers Bangalore",
+    "lostCount": 10
+  }
+}

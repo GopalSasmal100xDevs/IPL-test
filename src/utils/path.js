@@ -70,3 +70,6 @@ export const teamPlayedMostSuperOverPath = generateOutputPath(
 export const highestNetRunRateEachSeasonPath = generateOutputPath(
   "12-highestNetRunRateEachSeason"
 );
+export const teamLostMostMatchesPath = generateOutputPath(
+  "20-teamLostMostMatches"
+);
